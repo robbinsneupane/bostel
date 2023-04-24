@@ -1,0 +1,11 @@
+Sat Oct 26 4:46:07 EDT 2019  [LOG]:  [FATAL]: 0 : Failed to connect to api.twilio.com port 443: Connection timed out
+Sat Oct 26 4:48:09 EDT 2019  [LOG]:  [FATAL]: 0 : Failed to connect to api.twilio.com port 443: Connection timed out
+Tue Nov 5 13:07:07 EST 2019  [LOG]:  [FATAL]: 21212 : [HTTP 400] Unable to create record: The 'From' number 18577021886 is not a valid phone number, shortcode, or alphanumeric sender ID.
+Wed Nov 6 22:48:43 EST 2019  [LOG]:  [FATAL]: 21212 : [HTTP 400] Unable to create record: The 'From' number 18577021886 is not a valid phone number, shortcode, or alphanumeric sender ID.
+Wed Nov 6 22:49:14 EST 2019  [LOG]:  [FATAL]: 21212 : [HTTP 400] Unable to create record: The 'From' number 18577021886 is not a valid phone number, shortcode, or alphanumeric sender ID.
+Wed Nov 6 22:50:20 EST 2019  [LOG]:  [SUCCESS]: Sent Successfully!
+Wed Nov 6 22:50:59 EST 2019  [LOG]:  [SUCCESS]: Sent Successfully!
+Thu Nov 7 21:52:19 EST 2019  [LOG]:  [SUCCESS]: Sent Successfully!
+Thu Nov 7 21:54:07 EST 2019  [LOG]:  [SUCCESS]: Sent Successfully!
+Thu Nov 7 21:56:34 EST 2019  [LOG]:  [LICENSE]: SuiteCRM Twilio SMS Service is no longer active.Please renew your subscription or check your license configuration.
+Thu Nov 7 21:57:16 EST 2019  [LOG]:  [SUCCESS]: Sent Successfully!

@@ -1,0 +1,32 @@
+<?php
+$dictionary["Lead"]["fields"]["category_name"] = array(
+    'required' => true,
+    'source' => 'non-db',
+    'name' => 'category_name',
+    'vname' => 'LBL_CATEGORY',
+    'type' => 'relate',
+    'massupdate' => 0,
+    'comments' => '',
+    'help' => '',
+    'len' => '255',
+    'id_name' => 'category_id',
+    'ext2' => 'ru_contact_categories',
+    'module' => 'ru_Contact_Categories',
+    'quicksearch' => 'enabled',
+    'studio' => 'visible',
+);
+$dictionary["Lead"]["fields"]["category_id"] = array(
+    'required' => true,
+    'name' => 'category_id',
+    'vname' => '',
+    'type' => 'id',
+    'massupdate' => 0,
+    'comments' => '',
+    'help' => '',
+    'importable' => 'true',
+    'duplicate_merge' => 'disabled',
+    'duplicate_merge_dom_value' => 0,
+    'audited' => 0,
+    'reportable' => 0,
+    'len' => 36,
+);

@@ -1,0 +1,5 @@
+[21-May-2019 11:19:01 America/Chicago] PHP Fatal error:  Uncaught exception 'Exception' with message 'SuiteCRM is not installed. Entry point needs an installed SuiteCRM, please install first.' in /home/vidaambi/public_html/SuiteCRM/include/entryPoint.php:59
+Stack trace:
+#0 /home/vidaambi/public_html/SuiteCRM/index.php(47): require_once()
+#1 {main}
+  thrown in /home/vidaambi/public_html/SuiteCRM/include/entryPoint.php on line 59
